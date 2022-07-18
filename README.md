@@ -1,7 +1,7 @@
 # python-header-formatter
  For when you are too lazy too convert headers into dicts
- 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/PiggyAwesome/python-header-formatter/blob/main/LICENSE)
 
 ## I want to make this into a public website when i'm finished
 
